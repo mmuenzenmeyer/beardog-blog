@@ -1,0 +1,13 @@
+<body>
+  <h1>beardog i love you</h1>
+  <p> scroll for more information</p>
+  <h4>beardog helps me with storms and problems</h4>
+  <label for="select my mood">My mood today</label>
+  <input type="text" name="mood" id="mood" list="mood" />
+  <datalist>id="mood"</datalist>
+  <option value="sad"></option>
+  <option value="happy"></option>
+  <option value="mad"></option>
+  <option value="nutral"></option>
+  <label for="beardogs blog">His daily blog</label>
+  <textarea rows="10" id="blog" name="blog" placeholder="enter text here">enter text here </textarea>
